@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p149251-e1765224.adobeaemcloud.com/bin/franklin:delivery/shaik-tajuddin/universal-editor/main"
+    url: "https://author-p149251-e1522049.adobeaemcloud.com/bin/franklin:delivery/shaik-tajuddin/universal-editor/main"
     type: "markup"
     suffix: ".html"
